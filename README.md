@@ -39,8 +39,10 @@ Ensure you have the following installed on your system:
 
 1. Clone the repository.
    ```bash
-   gh repo clone harshil-sanghvi/Examify-Streamlined-GUI-Based-Examination-Management-System
-   cd Examify-Streamlined-GUI-Based-Examination-Management-System
+   gh repo clone DhruvByteCode/EduManage-Examination-System
+   cd EduManage-Examination-System
+   
+
    ```
 2. Install dependencies.
 3. Set up the database (modify the database configuration in the code).
